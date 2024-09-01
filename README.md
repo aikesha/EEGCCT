@@ -10,8 +10,12 @@ This paper introduces two versions of EEGCCT, an adaptation of the Compact Convo
 3. Handling Limited Data: Enhancement in performance with a smaller parameter size is a major advantage of EEGCCT over models such as Conformer, Hybrid s-CViT, and Hybrid t-CViT.
 
 ## Requirements:
-* Python 3.10
-* Pytorch 1.12
+* Python 3.8.0
+* Pytorch 1.11.0
+* torchvision=0.12.0
+* pandas=1.5.2
+* numpy=1.19.5
+* cudatoolkit=11.3.1
 
 ## Datasets:
 The datasets used during the current study are available in the BCI Competition IV repository. The specific datasets used are 2a[1] and 2b[2], which can be accessed at \url{https://www.bbci.de/competition/iv/}.
