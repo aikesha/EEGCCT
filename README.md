@@ -1,5 +1,5 @@
 # EEGCCT - Compact Convolutional Transformer for MI EEG-based BCIs
-PyTorch implementation of "Compact Convolutional Transformer for Subject-Independent Motor Imagery EEG-based BCIs"
+PyTorch implementation of ["Compact Convolutional Transformer for Subject-Independent Motor Imagery EEG-based BCIs"](https://www.nature.com/articles/s41598-024-73755-4#citeas)
 
 ## Abstract
 ![image](https://github.com/user-attachments/assets/6afeffc4-459b-4551-ad33-e868a453ab25)
