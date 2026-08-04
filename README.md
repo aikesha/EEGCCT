@@ -27,5 +27,5 @@ Transactions on Neural Syst. Rehabil. Eng. 15, 473–482, DOI: 10.1109/TNSRE.200
 ## Citation
 If our code was helpful to your research, we kindly ask that you cite our paper:
 ```
-Not published yet. In Peer Review.
+Keutayeva, A., Fakhrutdinov, N. & Abibullaev, B. Compact convolutional transformer for subject-independent motor imagery EEG-based BCIs. Sci Rep 14, 25775 (2024). https://doi.org/10.1038/s41598-024-73755-4
 ```
